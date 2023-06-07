@@ -1,0 +1,16 @@
+.image-home {
+    height: 50vh;
+    width: auto;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 768px) {
+    ul {
+        flex-wrap: wrap;
+    }
+}

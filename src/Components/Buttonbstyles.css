@@ -1,0 +1,19 @@
+.button-b {
+  font-family: "ofelia-text", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: var(--light);
+  color: var(--white);
+  padding: 15px 25px;
+  text-transform: uppercase;
+  border: none;
+  margin: 15px 0px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 2px var(--darkest);
+  letter-spacing: 0.15rem;
+
+  &:hover {
+    background-color: var(--darkest);
+    box-shadow: 0px 2px 2px var(--light);
+  }
+}

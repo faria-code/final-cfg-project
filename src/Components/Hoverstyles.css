@@ -1,0 +1,14 @@
+.image-hover {
+    height: 200px;
+    width: auto;
+    transform: translate(200px, -150px);
+    position: absolute;
+}
+
+
+.image-hover-even {
+    height: 200px;
+    width: auto;
+    transform: translate(-500px, -150px);
+    position: absolute;
+}

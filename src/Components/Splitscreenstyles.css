@@ -1,0 +1,28 @@
+.split-screen {
+    display: flex;
+    flex-direction: row;
+}
+
+.split-left {
+    width: 50%;
+    padding-right: 140px;
+    padding-top: 50px;
+
+}
+
+.split-right {
+    width: 50%;
+}
+
+.split-image-left {
+    height: 45vh;
+    width: auto;
+}
+
+.split-image-right {
+    height: 100vh;
+    width: auto;
+    margin-top: -70px;
+    margin-bottom: -5px;
+
+}

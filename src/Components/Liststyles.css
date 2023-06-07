@@ -1,0 +1,22 @@
+.flexlist {
+    background-color: var(--darkest);
+    padding: 25px 80px;
+    margin: 20px;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 0px;
+    flex-wrap: wrap;
+}
+
+ul h3 {
+    color: var(--white);
+}
+
+ul p {
+    color: var(--white);
+}

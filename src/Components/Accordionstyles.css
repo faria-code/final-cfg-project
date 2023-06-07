@@ -1,0 +1,28 @@
+.content{
+background-color:var(--neutral);
+padding:20px;
+}
+
+
+.title{
+    background-color:var(--light);
+    padding:5px 30px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:15px;
+}
+
+.title h4{
+    color:var(--white);
+}
+
+span{
+    color:var(--white);
+    font-size:25px;
+}
+
+.accordion{
+    width: 70%;
+    margin: auto;
+}
